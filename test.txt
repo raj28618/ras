@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6660-F0CB
+
+ Directory of C:\Users\RajeshT\GITDEMO
+
+06-08-2024  15:29    <DIR>          .
+06-08-2024  15:29    <DIR>          ..
+06-08-2024  15:29                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  123,573,862,400 bytes free
